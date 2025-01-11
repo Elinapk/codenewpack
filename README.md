@@ -1,2 +1,0 @@
-# codenewpack
-my_work
